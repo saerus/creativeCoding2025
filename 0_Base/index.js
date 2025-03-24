@@ -16,6 +16,7 @@ function setup() {
     imageMode(CENTER);
     rectMode(CENTER);
     //
+    line(0, 0, width, height);
 }
 // P5JS draw
 function draw() {
